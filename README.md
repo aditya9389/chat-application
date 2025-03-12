@@ -21,7 +21,7 @@ This is a simple chat application built using Java Servlets. It establishes a ba
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/aditya9389/chat-application.git
    cd chat-application
    ```
 2. Compile the Java files:
